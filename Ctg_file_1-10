@@ -1,0 +1,12 @@
+#Name          Path_to_data_files
+Ref          ./ABL1-BCR_ref-genome.fasta
+Sample1          ./Sample1.fasta
+Sample2          ./Sample2.fasta
+Sample3          ./Sample3.fasta
+Sample4          ./Sample4.fasta
+Sample5          ./Sample5.fasta
+Sample6          ./Sample6.fasta
+Sample7          ./Sample7.fasta
+Sample8          ./Sample8.fasta
+Sample9          ./Sample9.fasta
+Sample10          ./Sample10.fasta
