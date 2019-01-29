@@ -1,6 +1,6 @@
 # Scripts
 
-Hello and welcome to the repository for the (bash) scriptes of Pirmin Killigner
+Hello and welcome to the repository for the scriptes of Pirmin Killigner (pirmin.killinger@med.uni-jena.de)
 
 
 Content:
@@ -59,4 +59,4 @@ ABL1-BCR_ref-genome.fasta
 
 Ctg_file_1-10
 
-	Example Ctg_file for the use in modedSSR
+	Example Ctg_file for the use in modedSSR.
